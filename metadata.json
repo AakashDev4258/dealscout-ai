@@ -1,0 +1,6 @@
+{
+  "name": "DealScout AI",
+  "description": "Autonomous AI scout powered by Gemini and SerpApi to discover, evaluate, and compare deals, jobs, hackathons, and research opportunities.",
+  "requestFramePermissions": ["camera_and_microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
